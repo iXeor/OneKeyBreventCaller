@@ -1,4 +1,5 @@
-# OneKeyBreventCaller 一键激活黑阈，免除手动输入脚本之痛
+# OneKeyBreventCaller 
+# 一键激活黑阈，免除手动输入脚本之痛
 - 基于C#开发，启动后会自动搜索安卓设备。
 - 图形化界面，方便操作
 ---
@@ -9,7 +10,8 @@
 - 运行该程序的机器需要支持.NET Core 3.1
 - 经费有限，没有美化界面
 ---
-# OneKeyBreventCaller Activates Brevent with one key, eliminating the pain of manually entering scripts
+# OneKeyBreventCaller 
+# Activates Brevent with one key, eliminating the pain of manually entering scripts
 
 
 - Based on C# development, it will automatically search for Android devices after startup.
