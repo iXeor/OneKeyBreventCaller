@@ -11,7 +11,7 @@
 - 经费有限，没有美化界面
 ---
 # OneKeyBreventCaller 
-# Activates Brevent with one key, eliminating the pain of manually entering scripts
+# Activate Brevent with one key, eliminating the pain of manually entering scripts
 
 
 - Based on C# development, it will automatically search for Android devices after startup.
