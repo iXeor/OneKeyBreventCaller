@@ -14,9 +14,9 @@
 # Activate Brevent with one key, eliminating the pain of manually entering scripts
 
 
-- Based on C# development, it will automatically search for Android devices after startup.
+- Based on C#, it will automatically search for Android devices after startup.
 
-- Graphical interface, easy to operate
+- With graphical interface, easy to operate
 
 ---
 
